@@ -1,8 +1,6 @@
 # Cog_Individuals
 Data and R scripts "Individuality in syntactic variation: an investigation of the 17th-century gerund alternation"
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
 If you use these scripts or the data set, please cite:
 
 Fonteyn, Lauren & Andrea Nini. 2020. Individuality in syntactic variation: an investigation of the 17th-century gerund alternation. *Cognitive Linguistics*. doi:10.1515/cog-2019-0040
@@ -23,3 +21,6 @@ important language-internal factors conditioning the gerund variation are
 adopted by (and shared between) all authors, we can still attest inter-individual
 variation (i) at lower levels of variable importance, and (ii) in the breadth of the
 range of contexts individual authors employ to condition the attested variation.
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
