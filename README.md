@@ -1,6 +1,8 @@
 # Cog_Individuals
 Data and R scripts "Individuality in syntactic variation: an investigation of the 17th-century gerund alternation"
 
+[![DOI](https://zenodo.org/badge/244130549.svg)](https://zenodo.org/badge/latestdoi/244130549)
+
 If you use these scripts or the data set, please cite:
 
 Fonteyn, Lauren & Andrea Nini. 2020. Individuality in syntactic variation: an investigation of the 17th-century gerund alternation. *Cognitive Linguistics*. doi:10.1515/cog-2019-0040
