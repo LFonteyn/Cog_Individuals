@@ -7,6 +7,7 @@ If you use these scripts or the data set, please cite:
 
 Fonteyn, Lauren & Andrea Nini. 2020. Individuality in syntactic variation: an investigation of the 17th-century gerund alternation. *Cognitive Linguistics*. doi:10.1515/cog-2019-0040
 
+
 ## Abstract
 This study investigates the extent to which there is individuality in
 how structural variation is conditioned over time. Earlier research already classified
@@ -25,4 +26,13 @@ variation (i) at lower levels of variable importance, and (ii) in the breadth of
 range of contexts individual authors employ to condition the attested variation.
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
